@@ -1,6 +1,5 @@
 """
-Dual Extraction API Call - AMSTAR + Study Data (Enhanced with Supplement/Protocol Files)
-Replicates the dual extraction approach for systematic review quality assessment
+API Call to Claude - conducts AMSTAR assessment + Study Data extraction (Enhanced with Supplement/Protocol Files)
 """
 
 import requests
