@@ -1,0 +1,58 @@
+﻿Section,Field
+General information,DOI or PMID
+,Title
+,Year of publication
+,Corresponding author email
+Characteristics of included studies,Notes
+,Country of article
+,Aim of study
+,Years of inclusion for meta-analysis
+,Population description
+,Socioeconomic status of populations in included studies
+,Gender of populations in included studies
+,Sex of populations in included studies
+,Age of populations in included studies
+,Race of populations in included studies
+,Ethnicity of populations in included studies
+,Eating disorder of focus
+,Inclusion criteria
+,Exclusion criteria
+,Total number of studies in the review
+,Total number of participants in the review
+,Focus and main finding for the primary analysis
+,Outcome of the primary analysis (outcome 1)
+,Outcome measure for primary analysis
+,Number of studies for outcome 1
+,Sample size for outcome 1
+,Effect size for outcome 1
+,Confidence interval for outcome 1
+,Focus and main finding for outcome 2
+,Outcome of the second analysis (outcome 2)
+,Outcome measure for outcome 2
+,Number of studies for outcome 2
+,Sample size for outcome 2
+,Effect size for outcome 2
+,Confidence interval for outcome 2
+,Focus and main finding for outcome 3
+,Outcome of the second analysis (outcome 3)
+,Outcome measure for outcome 3
+,Number of studies for outcome 3
+,Sample size for outcome 3
+,Effect size for outcome 3
+,Confidence interval for outcome 3
+AMSTAR2_Items,Did the research questions and inclusion criteria for the review include the components of PICO?
+AMSTAR2_Items,Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?
+AMSTAR2_Items,Did the review authors explain their selection of the study designs for inclusion in the review?
+AMSTAR2_Items,Did the review authors use a comprehensive literature search strategy?
+AMSTAR2_Items,Did the review authors perform study selection in duplicate?
+AMSTAR2_Items,Did the review authors perform data extraction in duplicate?
+AMSTAR2_Items,Did the review authors provide a list of excluded studies and justify the exclusions?
+AMSTAR2_Items,Did the review authors describe the included studies in adequate detail?
+AMSTAR2_Items,Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?
+AMSTAR2_Items,Did the review authors report on the sources of funding for the studies included in the review?
+AMSTAR2_Items,"If meta-analysis was performed, did the review authors use appropriate methods for statistical combination of results?"
+AMSTAR2_Items,"If meta-analysis was performed, did the review authors assess the potential impact of risk of bias in individual studies on the results of the meta-analysis or other evidence synthesis?"
+AMSTAR2_Items,Did the review authors account for risk of bias in individual studies when interpreting/ discussing the results of the review?
+AMSTAR2_Items,"Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?"
+AMSTAR2_Items,"If they performed quantitative synthesis, did the review authors carry out an adequate investigation of publication bias (small study effects) and discuss its likely impact on the results of the review?"
+AMSTAR2_Items,"Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?"
